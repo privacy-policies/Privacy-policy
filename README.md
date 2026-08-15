@@ -1,2 +1,3 @@
 # Privacy-policy
-Dencrypt\Tidak dienkripsi
+
+Dencrypt atau Tidak dienkripsi
